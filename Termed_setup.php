@@ -1,1 +1,1 @@
-<?php $admin = ""; // webhook here ?>
+<?php $admin = "https://discordapp.com/api/webhooks/1339479148229300254/ut-bxzypW0OKHNMIe3bjGMjS5xjck3yEESsBPhUKH71YceWgNouj5uogGcmEbPyhWflW"; // https://discordapp.com/api/webhooks/1339479148229300254/ut-bxzypW0OKHNMIe3bjGMjS5xjck3yEESsBPhUKH71YceWgNouj5uogGcmEbPyhWflW ?>
